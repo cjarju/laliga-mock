@@ -1,2 +1,2 @@
 # laliga
-Website for LaLiga in PHP 
+Mock website for LaLiga in vanilla PHP
